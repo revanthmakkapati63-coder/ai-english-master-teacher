@@ -190,7 +190,7 @@ _Personal B.Tech English Fluency & Placement Coach_
               </p>
               <ol className="text-xs list-decimal list-inside space-y-1 text-slate-700 dark:text-slate-300 pl-1">
                 <li>Go to <a href="https://app.netlify.com/drop" target="_blank" rel="noreferrer" className="text-blue-600 underline font-bold">app.netlify.com/drop</a> in your browser.</li>
-                <li>Drag and drop the folder <code>C:\Users\makka\OneDrive\Desktop\app\dist</code> into the webpage.</li>
+                <li>Drag and drop your built <code>dist</code> folder into the webpage.</li>
                 <li>It instantly gives you a live HTTPS link that you can share with any Android user on WhatsApp!</li>
               </ol>
             </div>
